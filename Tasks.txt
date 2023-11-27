@@ -1,0 +1,33 @@
+As part of our evaluation process, we'd like to assess your skills in building a very simple e-commerce platform using Next.js, React, and Tailwind CSS.
+
+Task Description:
+
+Project Title: Building a simple E-commerce Platform using Next.js, React, and Tailwind CSS
+Objective:
+To create a functional e-commerce platform that allows users to browse products, view product details, add items to a cart, manage the cart, and simulate a checkout process using the fakestoreapi.com for product data.
+Requirements:
+1. Homepage:
+	- Display a list of products fetched from the fakestoreapi.com on the homepage. - Done
+
+2. Product Details Page:
+	- Create a page to showcase detailed information for a selected product when clicked from the homepage. - Done
+
+3. Add to Cart Functionality:
+	- Allow users to add products to their cart and manage items within the cart (update quantity, remove items).
+
+4. Checkout Process:
+	- Implement a checkout flow that allows users to review their cart and proceed towards a simulated checkout process.
+
+Design Requirements:
+	- Utilize Tailwind CSS for styling.
+	- Applicants are encouraged to showcase their design skills or use templates they are familiar with while adhering to Tailwind CSS for the UI.
+
+Submission Instructions:
+	- Create a public GitHub repository for your project.
+	- Provide clear instructions on how to run your project locally in the README file.
+	- Submit the repository link along with any other relevant information or notes.
+
+Additional Notes:
+	- The project should emphasize functionality, clean code, and adherence to best practices.
+	- Please complete the test within [specify the time frame].
+	- In case of any questions or clarifications, feel free to reach out.
